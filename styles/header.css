@@ -1,6 +1,9 @@
 .cabecalho{
     display: flex;
     justify-content: space-between;
+    background-color: var(--branco);
+    align-items: center;
+    position: relative;
 }
 
 .cabecalho__menu{
@@ -23,8 +26,11 @@
 
 .lista__menu{
     display: none;
+    position: absolute;
+    top: 100%;
 }
 
 .conteiner__botao:checked~.lista__menu{
     display:block;
 }
+
