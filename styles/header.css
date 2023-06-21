@@ -24,3 +24,7 @@
 .lista__menu{
     display: none;
 }
+
+.conteiner__botao:checked~.lista__menu{
+    display:block;
+}
