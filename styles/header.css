@@ -34,3 +34,10 @@
     display:block;
 }
 
+.lista__menu-titulo{
+    font-weight: 700;
+}
+
+.conteiner__botao{
+    display:none;
+}
