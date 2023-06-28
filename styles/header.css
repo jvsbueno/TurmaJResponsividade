@@ -25,9 +25,11 @@
 }
 
 .lista__menu{
+    background-color: var(--branco);
     display: none;
     position: absolute;
     top: 100%;
+    width: 60vw;
 }
 
 .conteiner__botao:checked~.lista__menu{
