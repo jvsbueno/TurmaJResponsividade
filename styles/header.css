@@ -42,3 +42,7 @@
 .conteiner__botao{
     display:none;
 }
+
+.lista__menu-link{
+    color: var(--roxo);
+}
