@@ -36,6 +36,7 @@
 
 .lista__menu-titulo{
     font-weight: 700;
+    color: var(--amarelo);
 }
 
 .conteiner__botao{
